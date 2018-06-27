@@ -1,0 +1,17 @@
+body {
+    background: #e3e0e2;
+}
+div {
+    margin: auto;
+    width: 500px;
+}
+
+p {
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+.quote {
+    text-align: center;
+    border: 1px solid white;
+    margin-bottom: 10px;
+}
